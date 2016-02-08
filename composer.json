@@ -8,7 +8,6 @@
 		"sheadawson/silverstripe-select2": "~1.0",
 		"silverstripe-australia/ba-sis": "~1.2.0",
 		"silverstripe-australia/memberprofiles": "~1.1",
-		"silverstripe/event-calendar": "~1.0",
 		"silverstripe/frontend-dashboards": "~1.2",
 		"silverstripe/microblog": "~2.4.0",
 		"silverstripe-australia/notifications": "~1.0"
